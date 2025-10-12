@@ -3,4 +3,4 @@
 # Solution
 
 age = input("Please enter your age: ")
-print("your age is: ", age)
+print(f"Your age is: {age}")
